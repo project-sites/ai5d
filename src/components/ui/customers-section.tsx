@@ -21,7 +21,7 @@ const transitionVariants = {
       },
     },
   },
-}
+} as const
 
 export interface CustomerLogo {
   src: string
