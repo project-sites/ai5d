@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "AI5D — Conseil, Formation & Labs en Intelligence Artificielle",
+    "description": "Stratégie, déploiement et formation IA pour dirigeants et organisations. Transformez votre organisation avec la méthode AI5D en 90 jours."
+  },
+  "nav": {
+    "constat": "Vision",
+    "services": "Services",
+    "protocole": "Protocole 5D",
+    "resultats": "Impact",
+    "about": "À Propos",
+    "cta": "Parler à un stratégiste"
+  },
+  "hero": {
+    "badge": "Nouveau : Leaders Circle 2026",
+    "title": "Transformez votre organisation avec la méthode AI5D en 90 jours",
+    "subtitle": "Conseil, Formation & Labs en IA.",
+    "cta_primary": "Parler à un stratégiste IA",
+    "cta_secondary": "Voir la méthode",
+    "stats": {
+      "failure": "70% d'échec sans méthode",
+      "time": "90 jours",
+      "adoption": "78% utilisent déjà l'IA"
+    }
+  },
+  "trust": {
+    "title": "Ils transforment leur organisation"
+  },
+  "constat": {
+    "title": "Personne ne prend la responsabilité de la transformation complète.",
+    "col1_title": "Grands cabinets",
+    "col1_desc": "Ils pensent la stratégie. Mais quand le rapport est livré, personne ne sait par où commencer.",
+    "col2_title": "Agences techniques",
+    "col2_desc": "Elles construisent les outils. Mais sans former ceux qui doivent les utiliser.",
+    "col3_title": "Freelances",
+    "col3_desc": "Ils automatisent vite. Mais quand ils partent, le savoir-faire part avec eux.",
+    "transition": "C'est exactement pour ça qu'AI5D existe."
+  },
+  "services": {
+    "title": "Ce que nous faisons.",
+    "consulting_title": "Consulting",
+    "consulting_desc": "Vos processus audités, vos cas d'usage identifiés, vos systèmes déployés. En 90 jours.",
+    "academy_title": "Academy",
+    "academy_desc": "Vos équipes formées, autonomes, et capables de créer leurs propres solutions IA. En 4 semaines.",
+    "labs_title": "Labs",
+    "labs_desc": "Vos automatisations conçues, livrées et documentées. Prêtes à tourner sans nous."
+  },
+  "protocole": {
+    "title": "Le Protocole AI5D",
+    "1_title": "Productivité Augmentée",
+    "1_desc": "Ce qui prenait 1 journée prend 1 heure.",
+    "2_title": "Créativité Illimitée",
+    "2_desc": "L'IA produit, vous décidez.",
+    "3_title": "Apprentissage Accéléré",
+    "3_desc": "Apprendre 10x plus vite.",
+    "4_title": "Réflexion Stratégique",
+    "4_desc": "En jours, pas en semaines.",
+    "5_title": "Veille Sectorielle",
+    "5_desc": "Zéro bruit, que des signaux."
+  },
+  "process": {
+    "title": "Process Consulting",
+    "step1_duration": "Semaine 1",
+    "step1_title": "Diagnostic complet + cas d'usage identifiés",
+    "step2_duration": "Jour 30",
+    "step2_title": "Premières automatisations en production",
+    "step3_duration": "Jour 90",
+    "step3_title": "Systèmes IA opérationnels, adoptés par les équipes",
+    "step4_duration": "Mois 6",
+    "step4_title": "ROI documenté, équipes autonomes, indépendance totale"
+  },
+  "resultats": {
+    "title": "Ce que ca donne, concretement.",
+    "stat1_desc": "de temps recupere sur les taches repetitives des le premier mois",
+    "stat2_desc": "pour atteindre l'autonomie complete de vos equipes",
+    "stat3_desc": "d'adoption par les equipes — pas de logiciel oublie dans un coin",
+    "stat4_desc": "de retour sur investissement documente a 6 mois"
+  },
+  "temoignages": {
+    "title": "Ils deploient l'IA avec nous",
+    "1_quote": "On pensait que l'IA, c'etait pour les grands groupes. AI5D nous a prouve le contraire en 6 semaines. Nos reportings qui prenaient une journee sortent maintenant en 10 minutes.",
+    "1_name": "Marc-Antoine D.",
+    "1_role": "Directeur General — Logistic Europe",
+    "2_quote": "Ce qui m'a convaincu, c'est que quand Karamo est parti, tout continuait de tourner. Mes equipes savent utiliser et maintenir les outils. C'est la premiere fois qu'un prestataire nous rend vraiment autonomes.",
+    "2_name": "Helene S.",
+    "2_role": "Directrice des Operations — Nexia Group",
+    "3_quote": "En un mois, trois de mes collaborateurs ont cree leurs propres automatisations. L'Academy ne forme pas des utilisateurs, elle forme des createurs.",
+    "3_name": "Julien R.",
+    "3_role": "CTO & Co-fondateur — DataPulse"
+  },
+  "about": {
+    "title": "À Propos",
+    "badge": "Qui est derrière AI5D",
+    "founder_name": "Karamo Sylla",
+    "expertise": "Expert stratégie IA, automatisation (n8n), transformation organisationnelle",
+    "pitch_focus": "J'ai passé des années à voir des entreprises acheter de l'IA comme on achète un meuble IKEA. Sans notice, sans outils, et sans personne pour l'assembler.",
+    "pitch_vision": "AI5D est né de cette frustration. Mon approche est simple : je ne vends pas de la technologie, je construis des systèmes qui fonctionnent quand je ne suis plus là. Si vos équipes ne sont pas autonomes à la fin de la mission, c'est que j'ai échoué.",
+    "quote": "\"Le vrai ROI de l'IA, ce n'est pas l'outil. C'est l'équipe qui sait s'en servir.\"",
+    "stats": {
+      "missions": "Missions délivrées",
+      "training": "Heures de formation",
+      "retention": "Taux de rétention"
+    }
+  },
+  "faq": {
+    "title": "Les questions qu'on nous pose.",
+    "1_q": "90 jours, c'est realiste ?",
+    "1_a": "Oui. Les 30 premiers jours servent a auditer et deployer les premieres automatisations. Le jour 60, vos equipes sont formees. Le jour 90, tout est en production et vous etes autonomes.",
+    "2_q": "On n'a pas d'equipe technique. C'est un probleme ?",
+    "2_a": "Au contraire. Nos systemes sont concus pour des equipes metiers, pas pour des developpeurs. Et notre programme Academy les rend capables de creer leurs propres solutions.",
+    "3_q": "Ca marche pour notre secteur ?",
+    "3_a": "Si vous avez des processus repetitifs, des reportings manuels, ou des donnees mal exploitees — oui. Logistique, services, industrie, marketing : le potentiel est partout.",
+    "4_q": "Et apres la mission, on fait comment ?",
+    "4_a": "C'est tout l'enjeu. Chaque systeme est documente, chaque equipe est formee. Notre objectif, c'est que vous n'ayez plus besoin de nous.",
+    "5_q": "Combien ca coute ?",
+    "5_a": "Ca depend du perimetre. On commence toujours par un appel de 30 minutes gratuit pour evaluer votre situation. Pas de grille rigide, un devis adapte a votre realite."
+  },
+  "cta_final": {
+    "punchline": "Ceux qui maîtrisent l'IA définiront les règles. Les autres les subiront.",
+    "subtext": "30 minutes. Sans engagement. On évalue ensemble votre situation.",
+    "button": "Parler à un stratégiste IA"
+  },
+  "footer": {
+    "tagline": "Stratégie, déploiement et formation IA",
+    "legal": "Mentions légales / Politique de confidentialité",
+    "copyright": "© 2026 AI5D. Tous droits réservés.",
+    "col1_title": "Société",
+    "col2_title": "Support",
+    "links": {
+      "vision": "Vision",
+      "services": "Services",
+      "protocole": "Protocole",
+      "impact": "Impact",
+      "about": "À Propos",
+      "faq": "Questions",
+      "contact": "Contact"
+    }
+  }
+}

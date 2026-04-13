@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "AI5D — Strategy, Training & AI Labs",
+    "description": "AI strategy, deployment, and training for leaders and organizations. Transform your organization with the AI5D method in 90 days."
+  },
+  "nav": {
+    "constat": "Vision",
+    "services": "Services",
+    "protocole": "Protocol 5D",
+    "resultats": "Impact",
+    "about": "About",
+    "cta": "Talk to a strategist"
+  },
+  "hero": {
+    "badge": "New: Leaders Circle 2026",
+    "title": "Transform your organization with the AI5D method in 90 days",
+    "subtitle": "Consulting, Training & AI Labs.",
+    "cta_primary": "Talk to an AI Strategist",
+    "cta_secondary": "See the Method",
+    "stats": {
+      "failure": "70% failure without method",
+      "time": "90 days",
+      "adoption": "78% already use AI"
+    }
+  },
+  "trust": {
+    "title": "They transform their organization"
+  },
+  "constat": {
+    "title": "Nobody takes responsibility for the complete transformation.",
+    "col1_title": "Large Firms",
+    "col1_desc": "They think Strategy. But when the report is delivered, nobody knows where to start.",
+    "col2_title": "Technical Agencies",
+    "col2_desc": "They build the tools. But without training those who must use them.",
+    "col3_title": "Freelancers",
+    "col3_desc": "They automate quickly. But when they leave, the know-how leaves with them.",
+    "transition": "That's exactly why AI5D exists."
+  },
+  "services": {
+    "title": "Transformation Ecosystem",
+    "consulting_title": "Consulting",
+    "consulting_desc": "From vision to AI execution, in 90 days.",
+    "academy_title": "Academy",
+    "academy_desc": "Training the forces of tomorrow. Leaders & teams program.",
+    "labs_title": "Labs",
+    "labs_desc": "Custom AI systems in production to automate complex workflows."
+  },
+  "protocole": {
+    "title": "The AI5D Protocol",
+    "1_title": "Augmented Productivity",
+    "1_desc": "What took 1 day takes 1 hour.",
+    "2_title": "Limitless Creativity",
+    "2_desc": "AI produces, you decide.",
+    "3_title": "Accelerated Learning",
+    "3_desc": "Learn 10x faster.",
+    "4_title": "Strategic Thinking",
+    "4_desc": "In days, not weeks.",
+    "5_title": "Trend & Industry Watch",
+    "5_desc": "Zero noise, only signals."
+  },
+  "process": {
+    "title": "Consulting Process",
+    "step1_duration": "Week 1",
+    "step1_title": "Comprehensive diagnostic + use cases identified",
+    "step2_duration": "Day 30",
+    "step2_title": "First automations in production",
+    "step3_duration": "Day 90",
+    "step3_title": "Operational AI systems, adopted by teams",
+    "step4_duration": "Month 6",
+    "step4_title": "Documented ROI, autonomous teams, total independence"
+  },
+  "resultats": {
+    "title": "What it looks like, concretely.",
+    "stat1_desc": "of time saved on repetitive tasks from the first month",
+    "stat2_desc": "to reach full team autonomy",
+    "stat3_desc": "team adoption rate — no software forgotten in a corner",
+    "stat4_desc": "documented return on investment at 6 months"
+  },
+  "temoignages": {
+    "title": "They deploy AI with us",
+    "1_quote": "We thought AI was only for large corporations. AI5D proved us wrong in 6 weeks. Our reports that took a full day now come out in 10 minutes.",
+    "1_name": "Marc-Antoine D.",
+    "1_role": "CEO — Logistic Europe",
+    "2_quote": "What convinced me is that when Karamo left, everything kept running. My teams know how to use and maintain the tools. It's the first time a contractor truly made us autonomous.",
+    "2_name": "Helene S.",
+    "2_role": "Operations Director — Nexia Group",
+    "3_quote": "In one month, three of my team members created their own automations. The Academy doesn't train users, it trains creators.",
+    "3_name": "Julien R.",
+    "3_role": "CTO & Co-founder — DataPulse"
+  },
+  "about": {
+    "title": "About",
+    "badge": "Who is behind AI5D",
+    "founder_name": "Karamo Sylla",
+    "expertise": "AI strategy expert, automation (n8n), organizational transformation",
+    "pitch_focus": "I spent years seeing companies buy AI like they was buying IKEA furniture. No manual, no tools, and no one to assemble it.",
+    "pitch_vision": "AI5D was born from this frustration. My approach is simple: I don't sell technology, I build systems that work when I'm no longer there. If your teams are not autonomous at the end of the mission, I failed.",
+    "quote": "\"The real AI ROI is not the tool. It's the team that knows how to use it.\"",
+    "stats": {
+      "missions": "Missions delivered",
+      "training": "Training hours",
+      "retention": "Client retention"
+    }
+  },
+  "faq": {
+    "title": "Questions we get asked.",
+    "1_q": "90 days — is that realistic?",
+    "1_a": "Yes. The first 30 days are for auditing and deploying initial automations. By day 60, your teams are trained. By day 90, everything is in production and you're autonomous.",
+    "2_q": "We don't have a tech team. Is that a problem?",
+    "2_a": "Quite the opposite. Our systems are built for business teams, not developers. And our Academy program makes them capable of creating their own solutions.",
+    "3_q": "Does it work for our industry?",
+    "3_a": "If you have repetitive processes, manual reports, or underused data — yes. Logistics, services, manufacturing, marketing: the potential is everywhere.",
+    "4_q": "What happens after the engagement?",
+    "4_a": "That's the whole point. Every system is documented, every team is trained. Our goal is for you to no longer need us.",
+    "5_q": "How much does it cost?",
+    "5_a": "It depends on the scope. We always start with a free 30-minute call to assess your situation. No rigid pricing grid, a quote tailored to your reality."
+  },
+  "cta_final": {
+    "punchline": "Those who master AI will define the rules. The others will endure them.",
+    "subtext": "30 minutes. No commitment. We evaluate your situation together.",
+    "button": "Talk to an AI Strategist"
+  },
+  "footer": {
+    "tagline": "AI strategy, deployment and training",
+    "legal": "Legal Notice / Privacy Policy",
+    "copyright": "© 2026 AI5D. All rights reserved.",
+    "col1_title": "Company",
+    "col2_title": "Support",
+    "links": {
+      "vision": "Vision",
+      "services": "Services",
+      "protocole": "Protocol",
+      "impact": "Impact",
+      "about": "About",
+      "faq": "FAQ",
+      "contact": "Contact"
+    }
+  }
+}
